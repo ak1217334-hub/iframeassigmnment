@@ -1,0 +1,43 @@
+table td {
+    border: 1px solid black;
+}
+
+#r1{
+    background-color:#00001A;
+}
+
+#r2{
+    background-color: #000047;
+}
+
+#r3{
+    background-color: #000075;
+}
+
+#r4{
+    background-color: #0000A3;
+}
+
+#r5{
+    background-color: #0000D1;
+}
+
+#r6{
+    background-color: #0000FF;
+}
+
+#r7{
+    background-color: #2E2EFF;
+}
+
+#r8{
+    background-color: #5C5CFF;
+}
+
+#r9{
+    background-color: #8A8AFF;
+}
+
+#r10{
+    background-color: #B8B8FF;
+}
